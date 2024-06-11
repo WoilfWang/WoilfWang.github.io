@@ -1,7 +1,7 @@
 # Site settings
 title: Woilf Blog                   #你博客的标题
 SEOTitle: 王云飞的博客 | woilf Blog   #显示在浏览器上搜索的时候显示的标题
-header-img: wyf.JPG  #显示在首页的背景图片
+header-img: img/wyf.JPG  #显示在首页的背景图片
 email: woilfwang@smail.nju.edu.cn        #个人邮箱
 description: "woilfwang Blog"
 keyword: "Machine Learning, NLP, LLMs"
@@ -17,8 +17,8 @@ sidebar-avatar: /img/about-mrhukang.jpeg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     mrhukang
-github_username:    mrhukang
+zhihu_username:     woilf
+github_username:    WoilfWang
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -55,11 +55,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: mrhukang
+disqus_username: woilfwang
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
@@ -97,11 +97,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www"
     },{
         title: "Apple",
         href: "https://apple.com"
