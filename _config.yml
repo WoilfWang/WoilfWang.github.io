@@ -12,7 +12,7 @@ github_repo: "https://github.com/WoilfWang/WoilfWang.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Never think the twilight is too late, for the sky is still filled with rosy clouds."
-sidebar-avatar: /img/about-mrhukang.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/wyf.JPG     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
