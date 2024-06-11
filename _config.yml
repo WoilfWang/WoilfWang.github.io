@@ -1,13 +1,13 @@
 # Site settings
-title: Red Blog                   #你博客的标题
-SEOTitle: 香克斯的博客 | Red Blog   #显示在浏览器上搜索的时候显示的标题
-header-img: img/post-bg-desk.jpg  #显示在首页的背景图片
-email: kanghu@live.cn         #个人邮箱
-description: "mrhukang Blog"
-keyword: "Red, kanghu, hukang, mrhukang, 香克斯的博客, JAVA, MAC, iPhone"
-url: "http://mrhukang.github.io"          # your host, for absolute URL
+title: Woilf Blog                   #你博客的标题
+SEOTitle: 王云飞的博客 | woilf Blog   #显示在浏览器上搜索的时候显示的标题
+header-img: wyf.JPG  #显示在首页的背景图片
+email: woilfwang@smail.nju.edu.cn        #个人邮箱
+description: "woilfwang Blog"
+keyword: "Machine Learning, NLP, LLMs"
+url: "http://WoilfWang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/mrhukang/mrhukang.github.io.git" # you code repository
+github_repo: "https://github.com/WoilfWang/WoilfWang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
